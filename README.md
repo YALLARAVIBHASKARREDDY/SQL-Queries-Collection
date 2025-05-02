@@ -13,4 +13,4 @@ This collection is intended to help with interview preparation, reporting, and d
 
 ---
 
-**Created by:** [RAVIBHASKAR]
+**Created by:** RAVIBHASKAR
